@@ -1,4 +1,4 @@
-# TMJ — Too Many Joints 🤖
+# TMJ — Too Many Joints 
 
 ### A DIY robotic arm project powered by curiosity, mechanics, and eventually AI.
 
