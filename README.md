@@ -2,8 +2,7 @@
 
 ### A DIY robotic arm project powered by curiosity, mechanics, and eventually AI.
 
-![TMJ Robotic Arm]
-
+![TMJ Robotic Arm](images/tmj.JPG)
 ## About the Project
 
 **TMJ (Too Many Joints)** is an experimental robotics project based on the Smartivity Mechanical Robotic Arm kit.
@@ -68,28 +67,14 @@ Planned capabilities include:
 - [ ] Design secure motor mounts
 - [ ] Calibrate safe trigger travel
 
-### Phase 3 — Motorized TMJ
+### Phase 3 — Motorized TMJ and control
 
 - [ ] Install LIFT actuator
 - [ ] Install GRAB actuator
 - [ ] Implement independent motor control
-- [ ] Add mechanical travel protection
-- [ ] Test repeatable gripping and releasing
-
-### Phase 4 — Computer Control
-
-- [ ] Develop a Python control interface
 - [ ] Implement USB serial communication
 - [ ] Add keyboard controls
-- [ ] Explore wireless ESP32 control
 
-### Phase 5 — Autonomous Robotics
-
-- [ ] Integrate a camera
-- [ ] Implement object detection
-- [ ] Experiment with force feedback
-- [ ] Develop automated grasping sequences
-- [ ] Explore AI-assisted control
 
 ## Technology Stack
 
